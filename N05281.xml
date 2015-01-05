@@ -121,8 +121,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:006676_0000_1029A6B0DC95E6D0"/>
-            <pb facs="tcp:006676_0001_1029A6B409AA0F60"/>
+            <pb facs="unknown:006676_0000_1029A6B0DC95E6D0"/>
+            <pb facs="unknown:006676_0001_1029A6B409AA0F60"/>
             <p>Anno Regni ANNAE REGINAE Magnae Britanniae, Franciae, &amp; Hiberniae, SEXTO.</p>
             <p>At the Parliament begun and holden at <hi>Westminster, Anno Dom.</hi> 1706, in the sixth Year of the Reign of Our Sovereign Lady <hi>ANNE,</hi> by the Grace of God, of <hi>Great Britain, France,</hi> and <hi>Ireland,</hi> Queen, Defender of the Faith, <hi>&amp;c.</hi>
             </p>
@@ -135,7 +135,7 @@
       </front>
       <body>
          <div type="Act_of_Parliament">
-            <pb n="1" facs="tcp:006676_0002_1029A6B94F8E6430"/>
+            <pb n="1" facs="unknown:006676_0002_1029A6B94F8E6430"/>
             <head>Anno sexto Annae Reginae.</head>
             <p>An Act for Ascertaining the Rates of Forein Coins in Her Majesty's Plantations in <hi>America.</hi>
             </p>
@@ -150,7 +150,7 @@
                   </gap> Majesty's Plantations in <hi>America.</hi>
                </note> and Plantations in <hi>America,</hi> and the Inconveniences thereof, by the indirect Practice of Drawing the Money from one Plantation to another; to the great prejudice of the Trade of our Subjects: And being sensible, That the same cannot be otherwise Remedied, than by Reducing of all Forein Coins to the same Current Rate within all Our Dominions in <hi>America:</hi> And the principal Officers of Our Mint having laid before Us a Table of the Value of the several Forein Coins which usually pass in Payments in Our said Plantations, according to their Weight; and the Assays made of them in Our Mint, thereby shewing the just Proportion which each Coin ought to have to the other.</p>
             <p>
-               <pb n="2" facs="tcp:006676_0003_1029A6BAD1530F00"/>
+               <pb n="2" facs="unknown:006676_0003_1029A6BAD1530F00"/>
 Which is as followeth, <hi>Viz.</hi>
             </p>
             <p>
@@ -165,7 +165,7 @@ Which is as followeth, <hi>Viz.</hi>
                <hi>And whereas notwithstanding the said Proclamation, the same indirect Practices as are therein mentioned, are still Carried on with some of the said Colonies or Plantations, and the Money thereby drawn from one Plantation to another, in Prejudice of the Trade of Her Majesty's Subjects: wherefore for the better Inforcing the due Execution of Her Majesty's said Proclamation throughout all the said Colonies and Plan<g ref="char:EOLhyphen"/>tations; and for the more Effectual Remedying the said Inconveniences there<g ref="char:EOLhyphen"/>by intended to be Remedied.</hi>
             </p>
             <p>
-               <pb n="3" facs="tcp:006676_0004_1029A6BE131694D8"/>
+               <pb n="3" facs="unknown:006676_0004_1029A6BE131694D8"/>
                <hi>Be it Enacted by the Queen's Most Excellent Majesty, by and with the Advice, and Consent of the Lords Spiritual, and Temporal, and Commons, in this Present Parliament Assembled,</hi>
                <note place="margin">Penalty for accounting, receiving, ta<g ref="char:EOLhyphen"/>king or pay<g ref="char:EOLhyphen"/>ing any of the several Spe<g ref="char:EOLhyphen"/>cies of Fo<g ref="char:EOLhyphen"/>rein Silver Coins herein mentioned, at any great<g ref="char:EOLhyphen"/>er or higher Rate after the First of <hi>May,</hi> 1709.</note> 
                <hi>and by the Authority of the same,</hi> That if any Person within any of the said Colonies, or Plantations, as well those under Proprietors, and Charters, as under Her Majesty's immediate Commission, and Go<g ref="char:EOLhyphen"/>vernment, shall after the First Day of <hi>May,</hi> which shall be in the Year of Our Lord, <hi>One Thousand Seven Hundred, and Nine,</hi> for the Discharge of any Contracts or Bargains to be thereafter made, Account, Receive, Take, or Pay, any of the several Species of Forein Silver Coins mentioned in the before-recited Proclamation, at any greater or higher Rate than at which the same is thereby Regulated, Setled, and Allowed, to be Accounted, Received, Taken, or Paid, every such Person so Accounting, Receiving, Taking, or Paying the same contrary to the Directions therein contained, shall suffer Six Months Imprisonment, without Bail or Mainprize: Any Law, Custom, or Usage in any of the said Colonies, or Plantations to the contrary hereof in any wise notwithstanding: And shall like<g ref="char:EOLhyphen"/>wise forfeit the Sum of <hi>Ten Pounds</hi> for every such Offence; One moiety thereof to Her Majesty, Her Heirs, and Successors; the other moiety to such Person or Persons as shall Sue for the same, to be Recovered with full Costs of Suit, by Action of Debt, Bill, Plaint, or Information, in any of Her Majesty's Courts of Justice within any of the said Plantations, or in any of the Courts of Justice of the Charter, or Proprietary Governments where such Offence shall be committed.</p>
@@ -179,7 +179,7 @@ Which is as followeth, <hi>Viz.</hi>
                </note> and according to such other Rates, and Proportions as Her Majesty by Her Royal Poclamation for that purpose to be Issued, shall from time to time judge proper, and necessary; Or from giving Her Royal Assent to any Law hereafter to be made in any of the said Colonies, or Plan<g ref="char:EOLhyphen"/>tations, for the Setling, and Ascertaining the current Rates of such Coins within the said Colonies, or Plantations; but that such further Regulations may be made, and such Assent given, in as full, and ample manner, to all intents, and purposes as the same might have been done in case this Act had not been made, and no otherwise; Any thing herein before contained to the contrary hereof in any wise notwithstanding.</p>
          </div>
          <div type="instruction">
-            <pb n="4" facs="tcp:006676_0005_1029A6BF96FD5870"/>
+            <pb n="4" facs="unknown:006676_0005_1029A6BF96FD5870"/>
             <head>Instruction to the Governour, <hi>&amp;c.</hi> By the Lords Justices,</head>
             <opener>
                <signed>Jo Cant. Wilmington P. Hervy C. P. S. Dorset Grafton Richmond Lenox &amp; Aubigny Bolton.</signed>
